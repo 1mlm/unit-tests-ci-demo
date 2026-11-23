@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b
+    return a - b # to fail the ci action
 
 def divide(a, b):
     if b == 0:
